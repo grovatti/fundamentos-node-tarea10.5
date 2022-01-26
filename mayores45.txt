@@ -1,0 +1,2 @@
+Nombre: papi Apellido: chulo Edad: 45
+Nombre: papi Apellido: chuloaaa Edad: 65

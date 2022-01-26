@@ -1,0 +1,3 @@
+Nombre: papi Apellido: chulo Edad: 30
+Nombre: papi Apellido: chulo Edad: 32
+Nombre: sanders Apellido: chuloaaa Edad: 26
